@@ -3,7 +3,7 @@
 
 **Problem to be addressed:**
 
-In this compitition, it is found that will the next question be correctly attempted by a student or not. It is a two-class classification problem.
+In this compitition, it is found that when a student is taking exam and attempting questions then will the next question be correctly attempted by a student or not. It is a two-class classification problem.
 
 
 **Dataset:**

@@ -1,6 +1,7 @@
 # kaggle_knowledge-tracing_compitition
 Problem to be addressed:
 In this compitition, it is found that will the next question be correctly attempted by a student or not. It is a two-class classification problem.
+
 Dataset:
 The data used for this compitition is available in this link https://www.kaggle.com/c/riiid-test-answer-prediction/data 
 This data is about TOEIC (Test Of English for International Communication) that provides student previous performance in exam at question level. It is a big data that consists of more than 100 million records.

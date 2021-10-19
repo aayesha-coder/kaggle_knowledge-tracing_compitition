@@ -34,5 +34,5 @@ Both models were first trained and then tested to predict correctness of the fut
 
 **Ensemble Modelling:**
 
-The predictive output of both models were first assigned some weights and then added up to get final prediction.
+The predictive output of both models were first assigned some weights and then weighted predictions added up to get final prediction.
 
